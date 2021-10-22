@@ -4,13 +4,25 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project's purposes are: 
+- Understanding of managing state with cubit. 
+- Using animations.
+- Integrating services for Login and SignUp.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+https://user-images.githubusercontent.com/76699815/138486924-ba9280de-dc89-462d-836f-259440ee2d36.mp4
+
+
+
+
+
+
+
+Service: https://github.com/Burak-Yavas/login-service
+
+
+
+
